@@ -21,6 +21,64 @@ I prepared the three project stages, including business requirements, architectu
 - Data protection: AWS KMS, Secrets Manager and backup planning.
 - Monitoring and operations: Elastic Security, Jira Service Management, Microsoft Teams and Power BI.
 
+## Architecture diagrams
+
+The following diagrams are taken from the updated Release CAB report.
+
+<details>
+<summary>Architecture</summary>
+
+![Architecture](architecture.png)
+
+Source: Release CAB, page 6.
+
+</details>
+
+<details>
+<summary>Ai Security</summary>
+
+![Ai Security](ai-security.png)
+
+Source: Release CAB, page 10.
+
+</details>
+
+<details>
+<summary>Network</summary>
+
+![Network](network.png)
+
+Source: Release CAB, page 15.
+
+</details>
+
+<details>
+<summary>Data Flow</summary>
+
+![Data Flow](data-flow.png)
+
+Source: Release CAB, page 19.
+
+</details>
+
+<details>
+<summary>Deployment Roadmap</summary>
+
+![Deployment Roadmap](deployment-roadmap.png)
+
+Source: Release CAB, page 23.
+
+</details>
+
+<details>
+<summary>Backup Recovery</summary>
+
+![Backup Recovery](backup-recovery.png)
+
+Source: Release CAB, page 30.
+
+</details>
+
 ## Documentation
 
 | Stage | Document | Language |
